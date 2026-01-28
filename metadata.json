@@ -1,0 +1,6 @@
+
+{
+  "name": "ResuRank AI",
+  "description": "An advanced NLP-powered resume ranking system that leverages Gemini 3 Pro to semantically match candidates against job descriptions with explainable AI insights.",
+  "requestFramePermissions": []
+}
